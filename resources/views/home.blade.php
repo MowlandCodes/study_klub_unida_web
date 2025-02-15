@@ -1,4 +1,12 @@
-<x-base-layout>
-    <x-slot:judul>{{ $judul }}</x-slot:judul>
-    <h1 class="text-xl">Hello</h1>
-</x-base-layout>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Home Page</title>
+        @vite('resources/css/app.css')
+    </head>
+    <body>
+
+    </body>
+</html>
