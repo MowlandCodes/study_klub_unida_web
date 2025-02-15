@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # study_klub_unida_web
 Web untuk Study Klub di Universitas Darussalam Gontor
 =======
@@ -68,4 +67,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> 935569a (info: initial commit)
