@@ -13,19 +13,19 @@
     </a>
     <ul class="flex items-center gap-x-16">
         <li class="relative group justify-center">
-            <a class="text-gray-700 hover:text-blue-500 block p-4 transition-all" href="#">Beranda</a>
+            <a class="text-gray-700 hover:text-blue-500 block px-4 py-6 transition-all" href="#">Beranda</a>
             <div class="absolute bottom-0 left-0 w-full h-[0.1rem] bg-blue-500 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left"></div>
         </li>
         <li class="relative group justify-center">
-            <a class="text-gray-700 hover:text-blue-500 block p-4 transition-all" href="#">Kursus</a>
+            <a class="text-gray-700 hover:text-blue-500 block px-4 py-6 transition-all" href="#">Kursus</a>
             <div class="absolute bottom-0 left-0 w-full h-[0.1rem] bg-blue-500 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left"></div>
         </li>
         <li class="relative group justify-center">
-            <a class="text-gray-700 hover:text-blue-500 block p-4 transition-all" href="#">Tentang Kami</a>
+            <a class="text-gray-700 hover:text-blue-500 block px-4 py-6 transition-all" href="#">Tentang Kami</a>
             <div class="absolute bottom-0 left-0 w-full h-[0.1rem] bg-blue-500 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left"></div>
         </li>
         <li class="relative group justify-center">
-            <a class="text-gray-700 hover:text-blue-500 block p-4 transition-all" href="#">Hubungi Kami</a>
+            <a class="text-gray-700 hover:text-blue-500 block px-4 py-6 transition-all" href="#">Hubungi Kami</a>
             <div class="absolute bottom-0 left-0 w-full h-[0.1rem] bg-blue-500 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left"></div>
         </li>
     </ul>
