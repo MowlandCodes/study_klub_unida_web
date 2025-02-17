@@ -9,5 +9,6 @@
     </head>
     <body class="h-full w-full box-border bg-zinc-100">
         <x-nav-bar></x-nav-bar>
+        {{ $slot }}
     </body>
 </html>
